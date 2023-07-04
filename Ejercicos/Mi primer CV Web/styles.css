@@ -1,0 +1,30 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+
+body{
+    background-color:#8A95A5;
+}
+
+#Titulo{
+        color: #474056;
+        text-align: center;
+}
+
+.subtitulo{
+        color:#757083;
+}
+
+.justificar{
+    text-align: justify;
+}
+img{
+    border: 3px #757083 solid;
+    padding: 2px;
+    margin: 0px;
+}
+
+/* 
+paleta de colores https://coolors.co/
+https://www.colourlovers.com/
+Colocar comentario CSS */
